@@ -1,5 +1,8 @@
 # Projeto Next Level Week RockeatSeat
 
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+
+
 Um projetinho delicinha para aplicar os conceitos de Node.js ReactJS e React Native
 
 O projeto está divido em 3 partes em suas devidas pastas
