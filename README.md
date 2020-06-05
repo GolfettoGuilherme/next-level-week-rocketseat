@@ -19,6 +19,10 @@ Com isso vai subir uma instancia do servidor que estará disponivel na URL [http
 
 legal né ?
 
+## Banco de Dados (SQLite)
+
+O projeto usa o banco de dados SQLite com o tal do knex para gerenciar isso.
+
 ## Web (Front End)
 
 Aqui vamos usar o tal do ReactJS. (esse você não precisa baixar nada pra rodar)
@@ -27,6 +31,12 @@ Para rodar o projeto web, abra a pasta pelo comando: `cd web` e depois o comando
 
 Com isso também vai subir uma instancia da pagina web no navegador que vai estar disponivel na URL [http://localhost:3000](http://localhost:3000)
 
+Finalmente o projeto Web está pronto e pode ser testado. (ainda vou mexer em algumas coisas que eu não gostei, vou colocar tudo nos issues deste repositorio)
+
 ## App Mobile 
 
 Ao longo da semana vamos criar e colocar nesse repositório tudo
+
+## Agradecimentos
+
+Sempre bom informar que esse projeto delicinha foi feito com as video aulas da [https://rocketseat.com.br](RocketSeat) que possue excelentes bootcamps sobre React and Stuff
